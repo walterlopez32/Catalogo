@@ -1,0 +1,2 @@
+git status
+walter lopez
